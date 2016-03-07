@@ -1,0 +1,25 @@
+{
+  "name": "ContrAI-Server",
+  "version": "0.0.1",
+  "description": "Backend of ContrAI game project",
+  "author": "Dmitry Mushtat <mushtat@gmail.com>",
+  "contributors": [],
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/contrai/server"
+  },
+  "keywords": [
+    "ai",
+    "game",
+    "javascript"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "preferGlobal": true,
+  "private": true, 
+  "license": "LGPL-3.0"
+}
